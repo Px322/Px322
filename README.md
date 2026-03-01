@@ -5,7 +5,6 @@ Mon langage de prédilection est Python, et j'essaie de m'améliorer de jours en
 
 Je publie régulièrement des projets liés à la robotique, secteur dans lequel j’aimerai un jour pouvoir être ingénieur. Mon objectif est de combiner programmation IA et robotique afin de créer des robots intelligents et autonome.
 
-Projet en cours : Je développe un script capable de détecter en temps réel des objets grâce à la webcam de l’ordinateur et au machine learning. L’idée est de simuler un robot qui peut interagir avec son environnement en reconnaissant et suivant des objets.
-J'utilise pour ce projet opencv et tensorflow.
+Projet en cours : Je développe un système permettant à un robot de suivre une ligne noire. Le projet sera ensuite possible d'être visualiser via une interface pygame. Vous pouvez aller consulter le readme du projet robot-suiveur-ligne pour en savoir plus.
 
 Je partage ici mes expérimentations pour progresser et pour être proche de personnes pouvant m'aider sur certains projets.
